@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'url' => 'http://school.shanixlab.com',
+	'url' => 'http://school.techappsolutions.com',
 
 	/*
 	|--------------------------------------------------------------------------

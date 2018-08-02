@@ -352,7 +352,7 @@
         <p class="col-md-9 col-sm-9 col-xs-12 copyright"> <a href="#" target="_blank">{{Session::get('inName')}}</a> &copy;2016</p>
 
         <p class="col-md-3 col-sm-3 col-xs-12 powered-by">Develop by: <a
-                    href="http://shanixlab.com">ShanixLab</a></p>
+                    href="http://techappsolutions.com">techappsolutions</a></p>
     </footer>
 
 </div><!--/.fluid-container-->
