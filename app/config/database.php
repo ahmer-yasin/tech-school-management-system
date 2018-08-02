@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'database'  => 'school',
-			'username'  => 'root',
-			'password'  => 'toor',
+			'host'      => 'sql12.freemysqlhosting.net',
+			'database'  => 'sql12250249',
+			'username'  => 'sql12250249',
+			'password'  => 'ehTjWbfyiB',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
